@@ -1,0 +1,7 @@
+{
+  "name": "text-utils",
+  "version": "1.0.0",
+  "description": "A lightweight text utility library for formatting, slugifying, and transforming strings",
+  "main": "src/index.ts",
+  "type": "module"
+}
