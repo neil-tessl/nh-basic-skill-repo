@@ -1,10 +1,4 @@
 {
   "name": "nh-basic-skill-repo",
-  "dependencies": {},
-  "tiles": {
-    "neil/text-utils": {
-      "source": "file",
-      "path": "tiles/text-utils"
-    }
-  }
+  "dependencies": {}
 }
