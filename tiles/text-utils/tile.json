@@ -1,6 +1,6 @@
 {
   "name": "neil/text-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A lightweight text utility library for formatting, slugifying, and transforming strings",
   "skills": {
     "text-utils": {
