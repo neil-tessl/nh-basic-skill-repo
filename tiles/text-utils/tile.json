@@ -1,0 +1,10 @@
+{
+  "name": "neil/text-utils",
+  "version": "0.1.0",
+  "summary": "A lightweight text utility library for formatting, slugifying, and transforming strings",
+  "skills": {
+    "text-utils": {
+      "path": "skills/text-utils/SKILL.md"
+    }
+  }
+}
